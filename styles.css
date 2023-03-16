@@ -1,0 +1,15 @@
+.container{
+  background-color: red;
+  padding: 20px;
+  margin: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  width: 28%;
+  margin: 15px;
+  background-color: white;
+  padding: 10px;
+  }
